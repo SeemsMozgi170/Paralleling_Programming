@@ -1,0 +1,23 @@
+﻿  BandAlghoritmMultyMatrixes.cpp
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(17,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(18,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(32,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(34,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(35,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(30,12): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(49,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(52,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(53,30): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(57,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(60,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(61,30): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  BandAlghoritmMultyMatrixes.vcxproj -> C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\Debug\BandAlghoritmMultyMatrixes.exe

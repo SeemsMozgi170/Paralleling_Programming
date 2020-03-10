@@ -1,0 +1,12 @@
+﻿  BandAlghoritmMultyMatrixes.cpp
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(38,30): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes.cpp(46,30): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  BandAlghoritmMultyMatrixes.vcxproj -> C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\BandAlghoritmMultyMatrixes\BandAlghoritmMultyMatrixes\x64\Debug\BandAlghoritmMultyMatrixes.exe

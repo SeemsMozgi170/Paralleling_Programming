@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc96e3b4-d2fa-4b62-87e8-cf9226f62d2f" name="Default Changelist" comment="" />
+    <list default="true" id="fc96e3b4-d2fa-4b62-87e8-cf9226f62d2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Information/Презентация1.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/.vs/Vector_on_number/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/.vs/Vector_on_number/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/.vs/Vector_on_number/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/.vs/Vector_on_number/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/.vs/Vector_on_number/v16/ipch/AutoPCH/46e9ec7bcb471dd0/VECTOR_ON_NUMBER.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/.vs/Vector_on_number/v16/ipch/AutoPCH/46e9ec7bcb471dd0/VECTOR_ON_NUMBER.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Debug/Vector_on_number.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Debug/Vector_on_number.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Debug/Vector_on_number.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Debug/Vector_on_number.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Debug/Vector_on_number.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Debug/Vector_on_number.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/Vector_on_number.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/Vector_on_number.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/Vector_on_number.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/Vector_on_number.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/Vector_on_number.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/Vector_on_number.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/Vector_on_number.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/Vector_on_number.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/Vector_on_number.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/Vector_on_number.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/vc142.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Debug/vc142.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Vector_on_number.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Vector_on_number.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Vector_on_number.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Vector_on_number/Vector_on_number/Vector_on_number.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +43,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Xi8vct02PomIoJHErqLU4zbmB6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +51,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
