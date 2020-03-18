@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Random;
 
+
 public class Operations {
     Random random = new Random();
     public int n,m;

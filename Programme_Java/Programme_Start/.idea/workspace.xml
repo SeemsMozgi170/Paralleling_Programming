@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc96e3b4-d2fa-4b62-87e8-cf9226f62d2f" name="Default Changelist" comment="" />
+    <list default="true" id="fc96e3b4-d2fa-4b62-87e8-cf9226f62d2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GenerateObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MatrixOnMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MatrixOnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VectorOnMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VectorOnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VectorOnVector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/BandAlghoritmMultyMatrixes/BandAlghoritmMultyMatrixes/.vs/BandAlghoritmMultyMatrixes/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/BandAlghoritmMultyMatrixes/BandAlghoritmMultyMatrixes/.vs/BandAlghoritmMultyMatrixes/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/BandAlghoritmMultyMatrixes/BandAlghoritmMultyMatrixes/.vs/BandAlghoritmMultyMatrixes/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/BandAlghoritmMultyMatrixes/BandAlghoritmMultyMatrixes/.vs/BandAlghoritmMultyMatrixes/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/.vs/Task2/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/.vs/Task2/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/.vs/Task2/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/.vs/Task2/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Debug/Task2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Debug/Task2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Debug/Task2.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Debug/Task2.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Debug/Task2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Debug/Task2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Task2/Debug/Task2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Task2/Debug/Task2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Task2/Debug/Task2.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Task2/Debug/Task2.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Task2/Debug/Task2.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Task2/Debug/Task2.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Task2/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Task2/Debug/vc142.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Task2/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programme_CPP/Task2/Task2/Task2/Debug/vc142.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Brain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Brain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Brain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Brain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Operations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Operations.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +60,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -80,26 +105,50 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1581520726507">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1583928919270">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581520726507" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1581520726507">
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1583928919270" />
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1584529166997">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581520726507" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1581520726507">
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584529166997" />
+    <state width="1237" height="141" key="GridCell.Tab.0.bottom" timestamp="1584531930938">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581520726507" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1581520726507">
+    <state width="1237" height="141" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584531930938" />
+    <state width="1237" height="141" key="GridCell.Tab.0.center" timestamp="1584531930937">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581520726507" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1581520463712">
+    <state width="1237" height="141" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584531930937" />
+    <state width="1237" height="141" key="GridCell.Tab.0.left" timestamp="1584531930937">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581520463712" />
+    <state width="1237" height="141" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584531930937" />
+    <state width="1237" height="141" key="GridCell.Tab.0.right" timestamp="1584531930938">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="141" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584531930938" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1584531930932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584531930932" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1584531930932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1584531930932" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1584531930932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1584531930932" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1584531930932">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1584531930932" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1583916846869">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583916846869" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1581520550422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
