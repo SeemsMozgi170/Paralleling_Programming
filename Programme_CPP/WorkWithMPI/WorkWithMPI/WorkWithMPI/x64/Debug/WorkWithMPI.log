@@ -1,0 +1,2 @@
+﻿  WorkWithMPI.cpp
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\WorkWithMPI\WorkWithMPI\WorkWithMPI\WorkWithMPI.cpp(5,10): fatal error C1083: Не удается открыть файл включение: mpi.h: No such file or directory,
