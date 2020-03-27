@@ -1,2 +1,13 @@
 ﻿  WorkWithMPI.cpp
-  WorkWithMPI.vcxproj -> C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\WorkWithMPI\WorkWithMPI\Debug\WorkWithMPI.exe
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\WorkWithMPI\WorkWithMPI\WorkWithMPI\WorkWithMPI.cpp(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\WorkWithMPI\WorkWithMPI\WorkWithMPI\WorkWithMPI.cpp(52,35): error C3867: "std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>::size": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\WorkWithMPI\WorkWithMPI\WorkWithMPI\WorkWithMPI.cpp(52,35): error C2446: <: нет преобразования "unsigned int (__thiscall std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>::* )(void) noexcept const" в "int"
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\WorkWithMPI\WorkWithMPI\WorkWithMPI\WorkWithMPI.cpp(52,31): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\WorkWithMPI\WorkWithMPI\WorkWithMPI\WorkWithMPI.cpp(54,42): error C3867: "std::vector<int,std::allocator<int>>::size": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\WorkWithMPI\WorkWithMPI\WorkWithMPI\WorkWithMPI.cpp(54,42): error C2446: <: нет преобразования "unsigned int (__thiscall std::vector<int,std::allocator<int>>::* )(void) noexcept const" в "int"
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\WorkWithMPI\WorkWithMPI\WorkWithMPI\WorkWithMPI.cpp(54,38): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\WorkWithMPI\WorkWithMPI\WorkWithMPI\WorkWithMPI.cpp(63,28): error C3867: "std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>::size": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\WorkWithMPI\WorkWithMPI\WorkWithMPI\WorkWithMPI.cpp(63,28): fatal error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
+  ВНУТРЕННЯЯ ОШИБКА КОМПИЛЯТОРА в "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\CL.exe"
+      Выберите команду "Техническая поддержка" в меню "Справка" Visual C++ или
+      откройте справочный файл технической поддержки для получения доп. сведений
