@@ -1,0 +1,7 @@
+﻿  Ind1_.cpp
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\Ind1_\Ind1_\Ind1_\Ind1_.cpp(29,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\Ind1_\Ind1_\Ind1_\Ind1_.cpp(40,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\Ind1_\Ind1_\Ind1_\Ind1_.cpp(48,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\Ind1_\Ind1_\Ind1_\Ind1_.cpp(13,16): warning C4101: status: неиспользованная локальная переменная
+C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\Ind1_\Ind1_\Ind1_\Ind1_.cpp(30,23): warning C4101: newRow: неиспользованная локальная переменная
+  Ind1_.vcxproj -> C:\Users\Ibrag\Desktop\Paralleling_Programming\Programme_CPP\Ind1_\Ind1_\Debug\Ind1_.exe
